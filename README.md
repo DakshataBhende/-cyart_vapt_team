@@ -25,7 +25,7 @@ Kali Linux, Nmap, Nikto, OpenVAS (GVM), Dradis CE, VMware, Microsoft Excel
 
 
 ## Deliverable
-- **Final VAPT Report (PDF):** `VAPT01_report.pdf`
+- **Week-1 Final Report:** `VAPT01_report.pdf`
 
 
 ## Statement of Purpose
