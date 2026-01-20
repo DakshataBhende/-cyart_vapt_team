@@ -1,7 +1,7 @@
 # -cyart_vapt_team
 vapt_task01
 
-# Vulnerability Assessment & Penetration Testing (VAPT)
+# Week-1 Vulnerability Assessment & Penetration Testing (VAPT)
 
 ## Overview
 This repository contains a comprehensive **Vulnerability Assessment and Penetration Testing (VAPT)**
