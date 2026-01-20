@@ -11,7 +11,6 @@ open-source security tools.
 The assessment follows a structured VAPT methodology to identify, evaluate, and
 document security weaknesses in a controlled lab environment.
 
----
 
 ## Scope of Assessment
 - Target: Metasploitable 3
@@ -20,17 +19,14 @@ document security weaknesses in a controlled lab environment.
   - Limited, non-destructive Penetration Testing
 - Environment: Isolated laboratory setup
 
----
 
 ## Tools & Technologies
 Kali Linux, Nmap, Nikto, OpenVAS (GVM), Dradis CE, VMware, Microsoft Excel
 
----
 
 ## Deliverable
 - **Final VAPT Report (PDF):** `VAPT01_report.pdf`
 
----
 
 ## Statement of Purpose
 This project was conducted for academic and professional skill development in the field
